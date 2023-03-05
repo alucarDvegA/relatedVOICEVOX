@@ -1,0 +1,2 @@
+# relatedVOICEVOX
+voicevox関連
